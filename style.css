@@ -32,7 +32,7 @@ body{
     box-shadow: -4px -4px 15px rgba(255, 255, 255, 0.79), -2px -2px 20px rgba(255, 255, 255, 0.1);
     background: transparent;
     font-size: 20px;
-    color: #000091;
+    color: #00006c;
     cursor: pointer;
     margin: 10px;
 }
@@ -55,5 +55,13 @@ form .display input{
 }
 
 form input.equal{
-    width: 145px;
+    width: 60px;
+}
+
+form input.fun{
+    color: #530080;
+}
+
+form input.num{
+    color: #006071;
 }
